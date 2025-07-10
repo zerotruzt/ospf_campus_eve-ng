@@ -3,7 +3,7 @@ OSPF Routing Lab with NAT/PAT & Simulated Internet Access
 
 This is a routing-focused lab I built in EVE-NG to simulate a small enterprise network. It uses multi-area OSPF, NAT, and includes a simulated ISP and HTTP server to test outbound internet traffic from internal PCs.
 
-The idea was to get hands-on with realistic routing behavior, OSPF design, and edge-NAT scenarios — stuff you’d find in a real enterprise environment, but scaled down into something manageable and repeatable.
+  - The idea was to get hands-on with realistic routing behavior, OSPF design, and edge-NAT scenarios — stuff you’d find in a real enterprise environment, but scaled down into something manageable and repeatable.
 ---------------------------------------------------------------------------------------------------------
 Topology Overview
 
